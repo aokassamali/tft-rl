@@ -1,7 +1,27 @@
-__pycache__/
-*.pyc
-data/*.json
-data/*.pkl
+# env / build
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# data + artifacts (keep raw data out of git)
+data/**/*
+!data/README.md
+!data/schema.md
+!data/samples/**/*
 checkpoints/
-logs/
-.env
+runs/
+wandb/
+mlruns/
+
+# python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
