@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/*.json
+data/*.pkl
+checkpoints/
+logs/
+.env
