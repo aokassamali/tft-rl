@@ -1,0 +1,15 @@
+[project]
+name = "tft-rl"
+version = "0.1.0"
+description = "RL for TFT (Set 4) using TFTMuZeroAgent environment."
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.26",
+  "gymnasium>=0.29.1",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
