@@ -7,6 +7,10 @@ import sys
 import inspect
 
 from tft_rl.env.configs import make_default_tft_config
+from tft_rl.env.gym_wrappers import DeltaRewardWrapper
+from tft_rl.env.action_wrappers import GridDiscreteActionWrapper
+from tft_rl.env.safety_wrappers import InvalidActionPenaltyWrapper
+from tft_rl.env.obs_wrappers import FlattenObsWrapper
 
 def _ensure_submodule_on_path():
     repo_root = Path(__file__).resolve().parents[3]
@@ -18,7 +22,13 @@ def make_position_single_step_env():
     _ensure_submodule_on_path()
     from Simulator.tft_single_player_simulator import TFT_Single_Player_Simulator
     tft_config = make_default_tft_config()
-    return TFT_Single_Player_Simulator(tft_config=tft_config)
+    
+    env = TFT_Single_Player_Simulator(tft_config=tft_config)
+    env = DeltaRewardWrapper(env)
+    env = GridDiscreteActionWrapper(env)
+    #env = InvalidActionPenaltyWrapper(env, penalty=-0.01)
+    env = FlattenObsWrapper(env)
+    return env
 
 def adapt_position_action(action):
     """
