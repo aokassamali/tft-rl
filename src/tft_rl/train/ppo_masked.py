@@ -59,9 +59,9 @@ class Agent(nn.Module):
 def main():
     # --- Config ---
     run_name = f"ppo_masked_{int(time.time())}"
-    num_envs = 16
+    num_envs = 1
     rollout_len = 256
-    total_timesteps = 200_000
+    total_timesteps = 20_000
     learning_rate = 2.5e-4
     gamma = 0.99
     gae_lambda = 0.95
@@ -121,6 +121,14 @@ def main():
             a_np = action.cpu().numpy()
             o2, r, term, trunc, info = envs.step(a_np)
             done = np.logical_or(term, trunc)
+            if done.any():
+                # reset only the done envs
+                for i, d in enumerate(done):
+                    if d:
+                        o_reset, _ = envs.envs[i].reset()
+                        o2["obs"][i] = o_reset["obs"]
+                        o2["action_mask"][i] = o_reset["action_mask"]
+                        done[i] = False
 
             rewards_buf[t] = torch.tensor(r, device=device, dtype=torch.float32)
             next_obs = torch.tensor(o2["obs"], device=device, dtype=torch.float32)

@@ -9,7 +9,7 @@ import inspect
 from tft_rl.env.configs import make_default_tft_config
 from tft_rl.env.gym_wrappers import DeltaRewardWrapper
 from tft_rl.env.action_wrappers import GridDiscreteActionWrapper
-from tft_rl.env.safety_wrappers import InvalidActionPenaltyWrapper
+from tft_rl.env.safety_wrappers import InvalidActionPenaltyWrapper, CrashShieldWrapper
 from tft_rl.env.obs_wrappers import FlattenObsWrapper
 
 def _ensure_submodule_on_path():
@@ -24,6 +24,7 @@ def make_position_single_step_env():
     tft_config = make_default_tft_config()
     
     env = TFT_Single_Player_Simulator(tft_config=tft_config)
+    env = CrashShieldWrapper(env, crash_reward=-1.0)
     env = DeltaRewardWrapper(env)
     env = GridDiscreteActionWrapper(env)
     #env = InvalidActionPenaltyWrapper(env, penalty=-0.01)

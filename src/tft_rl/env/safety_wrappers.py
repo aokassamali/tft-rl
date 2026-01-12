@@ -3,6 +3,9 @@
 
 from __future__ import annotations
 import gymnasium as gym
+import numpy as np
+import traceback
+from gymnasium import spaces
 
 class InvalidActionPenaltyWrapper(gym.Wrapper):
     def __init__(self, env: gym.Env, penalty: float = -0.01):
@@ -30,3 +33,38 @@ class InvalidActionPenaltyWrapper(gym.Wrapper):
 
         self._prev_round = cur_round
         return obs, r, term, trunc, info
+
+
+# Goal: prevent rare simulator crashes from killing training runs.
+# Why: third-party env has occasional None-handling bugs.
+
+class CrashShieldWrapper(gym.Wrapper):
+    def __init__(self, env: gym.Env, crash_reward: float = -1.0):
+        super().__init__(env)
+        self.crash_reward = crash_reward
+        self._last_obs = None
+
+        # Build a safe fallback obs from reset to use if step crashes
+        obs, _ = self.env.reset()
+        self._fallback_obs = obs
+
+    def reset(self, **kwargs):
+        obs, info = self.env.reset(**kwargs)
+        self._last_obs = obs
+        return obs, info
+
+    def step(self, action):
+        try:
+            obs, r, term, trunc, info = self.env.step(action)
+            self._last_obs = obs
+            return obs, r, term, trunc, info
+        except Exception as e:
+            # Print crash info so we can later fix root cause
+            print("=== ENV CRASH ===")
+            print(repr(e))
+            traceback.print_exc()
+
+            # Return a terminal transition so the rollout can continue
+            obs = self._last_obs if self._last_obs is not None else self._fallback_obs
+            info = {"env_crash": True, "exception": repr(e)}
+            return obs, float(self.crash_reward), True, False, info
