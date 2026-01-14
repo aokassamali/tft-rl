@@ -1,0 +1,6 @@
+=== EVAL RESULTS ===
+episodes: 500
+return mean: 5.5160  median: 2.5000  std: 4.7419
+len mean: 98.77  median: 53.50
+illegal actions: 0/49384 (0.000%)
+env_crash episodes: 0

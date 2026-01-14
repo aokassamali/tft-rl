@@ -1,0 +1,4 @@
+run_name: ppo_masked_1768369638
+num_envs: 8
+total_timesteps: 200_000
+git commit hash
