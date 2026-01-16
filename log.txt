@@ -1,547 +1,145 @@
 Start of a new run
-2       3523.9              Adding champion nami with items ['bf_sword'] and chosen False to bench                      
-2       3523.9              moved nami from bench 0 to board [0, 0]                                                     
-2       3523.9              Spaces for units left to fight 0                                                            
-2       15606.5             Adding champion nunu with items [] and chosen False to bench                                
-2       15606.5             Adding champion zed with items [] and chosen False to bench                                 
-2       15606.5             enlightened: 1, tier: 0                                                                     
-2       15606.5             mage: 1, tier: 0                                                                            
-2       15606.5             at (0, 0), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
-2       15606.5             Player level 1 with gold 1, max_units = 1, num_units_in_play = 1, health = 100, default False
-2       15606.5             moved nami from board [0, 0] to bench                                                       
-2       15606.5             moved zed from bench 1 to board [0, 0]                                                      
-2       15606.5             Spaces for units left to fight 0                                                            
-END OF ROUND 1 : 22:17:13
-2       19317.9             Spaces for units left to fight 0                                                            
-2       19851.3             Adding champion aphelios with items [] and chosen False to bench                            
-2       19851.3             Adding champion hecarim with items [] and chosen False to bench                             
-2       19851.3             Adding champion thresh with items [] and chosen False to bench                              
-2       19851.3             ninja: 1, tier: 1                                                                           
-2       19851.3             shade: 1, tier: 0                                                                           
-2       19851.3             at (0, 0), champion zed, with level = 1, items = [], and chosen = False                     
-2       19851.3             Player level 1 with gold 1, max_units = 1, num_units_in_play = 1, health = 100, default False
-2       0.0                 leveled to 2                                                                                
-2       0.0                 ninja: 1, tier: 1                                                                           
-2       0.0                 shade: 1, tier: 0                                                                           
-2       0.0                 at (0, 0), champion zed, with level = 1, items = [], and chosen = False                     
-2       0.0                 Player level 2 with gold 3, max_units = 2, num_units_in_play = 1, health = 100, default False
-2       0.0                 0: nunu                                                                                     
-2       0.0                 1: nami                                                                                     
-2       0.0                 2: aphelios                                                                                 
-2       0.0                 3: hecarim                                                                                  
-2       0.0                 4: thresh                                                                                   
-2       0.0                 0: champion_duplicator                                                                      
-2       10222.0             moved zed from board [0, 0] to bench                                                        
-2       10222.0             moved nami from bench 1 to board [0, 0]                                                     
-2       10222.0             moved nami from board [0, 0] to bench                                                       
-2       10222.0             moved zed from bench 1 to board [0, 0]                                                      
-2       10222.0             moved zed from board [0, 0] to bench                                                        
-2       10222.0             moved nami from bench 1 to board [0, 0]                                                     
-2       10222.0             moved nami from board [0, 0] to bench                                                       
-2       10222.0             moved zed from bench 1 to board [0, 0]                                                      
-2       10222.0             moved zed from board [0, 0] to bench                                                        
-2       10222.0             moved nami from bench 1 to board [0, 0]                                                     
-2       10222.0             moved nami from board [0, 0] to bench                                                       
-2       10222.0             moved zed from bench 1 to board [0, 0]                                                      
-2       10222.0             moved zed from board [0, 0] to bench                                                        
-2       10222.0             moved nami from bench 1 to board [0, 0]                                                     
-2       10222.0             moved nami from board [0, 0] to bench                                                       
-2       10222.0             moved zed from bench 1 to board [0, 0]                                                      
-2       10222.0             moved zed from board [0, 0] to bench                                                        
-2       10222.0             moved nami from bench 1 to board [0, 0]                                                     
-2       10222.0             moved nami from board [0, 0] to bench                                                       
-2       10222.0             moved zed from bench 1 to board [0, 0]                                                      
-2       10222.0             moved zed from board [0, 0] to bench                                                        
-2       10222.0             moved nami from bench 1 to board [0, 0]                                                     
-2       15470.7             moved nami from board [0, 0] to bench                                                       
-2       15470.7             moved zed from bench 1 to board [0, 0]                                                      
-2       15470.7             moved zed from board [0, 0] to bench                                                        
-2       15470.7             moved nami from bench 1 to board [0, 0]                                                     
-2       15470.7             moved nami from board [0, 0] to bench                                                       
-2       15470.7             moved zed from bench 1 to board [0, 0]                                                      
-2       15470.7             moved zed from board [0, 0] to bench                                                        
-2       15470.7             moved nami from bench 1 to board [0, 0]                                                     
-2       15470.7             moved nunu from bench 0 to board [0, 1]                                                     
-2       15470.7             Spaces for units left to fight 0                                                            
-END OF ROUND 2 : 22:17:13
-2       15470.7             Spaces for units left to fight 0                                                            
-2       31458.4             Adding champion pyke with items [] and chosen False to bench                                
-2       31458.4             elderwood: 1, tier: 0                                                                       
-2       31458.4             enlightened: 1, tier: 0                                                                     
-2       31458.4             brawler: 1, tier: 0                                                                         
-2       31458.4             mage: 1, tier: 0                                                                            
-2       31458.4             at (0, 0), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
-2       31458.4             at (0, 1), champion nunu, with level = 1, items = [], and chosen = False                    
-2       31458.4             Player level 2 with gold 7, max_units = 2, num_units_in_play = 2, health = 100, default False
-2       0.0                 leveled to 3                                                                                
-2       0.0                 elderwood: 1, tier: 0                                                                       
-2       0.0                 enlightened: 1, tier: 0                                                                     
-2       0.0                 brawler: 1, tier: 0                                                                         
-2       0.0                 mage: 1, tier: 0                                                                            
-2       0.0                 at (0, 0), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
-2       0.0                 at (0, 1), champion nunu, with level = 1, items = [], and chosen = False                    
-2       0.0                 Player level 3 with gold 10, max_units = 3, num_units_in_play = 2, health = 100, default False
-2       0.0                 0: pyke                                                                                     
-2       0.0                 1: zed                                                                                      
-2       0.0                 2: aphelios                                                                                 
-2       0.0                 3: hecarim                                                                                  
-2       0.0                 4: thresh                                                                                   
-2       0.0                 0: champion_duplicator                                                                      
-2       6918.1              exp to 4 on level 3                                                                         
-2       6918.1              leveled to 4                                                                                
-2       6918.1              exp to 2 on level 4                                                                         
-2       8924.5              moved pyke from bench 0 to board [0, 2]                                                     
-2       8924.5              moved zed from bench 1 to board [0, 3]                                                      
-2       8924.5              Spaces for units left to fight 0                                                            
-END OF ROUND 3 : 22:17:13
-2       32970.3             cultist: 1, tier: 0                                                                         
-2       32970.3             elderwood: 1, tier: 0                                                                       
-2       32970.3             enlightened: 1, tier: 0                                                                     
-2       32970.3             ninja: 1, tier: 1                                                                           
-2       32970.3             assassin: 1, tier: 0                                                                        
-2       32970.3             brawler: 1, tier: 0                                                                         
-2       32970.3             mage: 1, tier: 0                                                                            
-2       32970.3             shade: 1, tier: 0                                                                           
-2       32970.3             at (0, 0), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
-2       32970.3             at (0, 1), champion nunu, with level = 1, items = [], and chosen = False                    
-2       32970.3             at (0, 2), champion pyke, with level = 1, items = [], and chosen = False                    
-2       32970.3             at (0, 3), champion zed, with level = 1, items = [], and chosen = False                     
-2       32970.3             Player level 4 with gold 2, max_units = 4, num_units_in_play = 4, health = 100, default False
-2       0.0                 cultist: 1, tier: 0                                                                         
-2       0.0                 elderwood: 1, tier: 0                                                                       
-2       0.0                 enlightened: 1, tier: 0                                                                     
-2       0.0                 ninja: 1, tier: 1                                                                           
-2       0.0                 assassin: 1, tier: 0                                                                        
-2       0.0                 brawler: 1, tier: 0                                                                         
-2       0.0                 mage: 1, tier: 0                                                                            
-2       0.0                 shade: 1, tier: 0                                                                           
-2       0.0                 at (0, 0), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
-2       0.0                 at (0, 1), champion nunu, with level = 1, items = [], and chosen = False                    
-2       0.0                 at (0, 2), champion pyke, with level = 1, items = [], and chosen = False                    
-2       0.0                 at (0, 3), champion zed, with level = 1, items = [], and chosen = False                     
-2       0.0                 Player level 4 with gold 6, max_units = 4, num_units_in_play = 4, health = 100, default False
-2       0.0                 2: aphelios                                                                                 
-2       0.0                 3: hecarim                                                                                  
-2       0.0                 4: thresh                                                                                   
-2       0.0                 0: champion_duplicator                                                                      
-2       0.0                 Adding champion tahmkench with items [] and chosen brawler to bench                         
-2       0.0                 Spending gold on champion tahmkench with cost = 3, remaining gold 3 and chosen = brawler    
-2       0.0                 Bought champion tahmkench                                                                   
-2       0.0                 moved nami from board [0, 0] to bench                                                       
-2       0.0                 moved tahmkench from bench 0 to board [0, 0]                                                
-2       0.0                 Spaces for units left to fight 0                                                            
-END OF ROUND 4 : 22:17:13
-2       39728.7             cultist: 1, tier: 0                                                                         
-2       39728.7             elderwood: 1, tier: 0                                                                       
-2       39728.7             ninja: 1, tier: 1                                                                           
-2       39728.7             assassin: 1, tier: 0                                                                        
-2       39728.7             brawler: 3, tier: 1                                                                         
-2       39728.7             fortune: 1, tier: 0                                                                         
-2       39728.7             shade: 1, tier: 0                                                                           
-2       39728.7             at (0, 0), champion tahmkench, with level = 2, items = [], and chosen = brawler             
-2       39728.7             at (0, 1), champion nunu, with level = 1, items = [], and chosen = False                    
-2       39728.7             at (0, 2), champion pyke, with level = 1, items = [], and chosen = False                    
-2       39728.7             at (0, 3), champion zed, with level = 1, items = [], and chosen = False                     
-2       39728.7             Player level 4 with gold 3, max_units = 4, num_units_in_play = 4, health = 100, default False
-2       0.0                 cultist: 1, tier: 0                                                                         
-2       0.0                 elderwood: 1, tier: 0                                                                       
-2       0.0                 ninja: 1, tier: 1                                                                           
-2       0.0                 assassin: 1, tier: 0                                                                        
-2       0.0                 brawler: 3, tier: 1                                                                         
-2       0.0                 fortune: 1, tier: 0                                                                         
-2       0.0                 shade: 1, tier: 0                                                                           
-2       0.0                 at (0, 0), champion tahmkench, with level = 2, items = [], and chosen = brawler             
-2       0.0                 at (0, 1), champion nunu, with level = 1, items = [], and chosen = False                    
-2       0.0                 at (0, 2), champion pyke, with level = 1, items = [], and chosen = False                    
-2       0.0                 at (0, 3), champion zed, with level = 1, items = [], and chosen = False                     
-2       0.0                 Player level 4 with gold 8, max_units = 4, num_units_in_play = 4, health = 100, default False
-2       0.0                 1: nami                                                                                     
-2       0.0                 2: aphelios                                                                                 
-2       0.0                 3: hecarim                                                                                  
-2       0.0                 4: thresh                                                                                   
-2       0.0                 0: champion_duplicator                                                                      
-2       0.0                 leveled to 5                                                                                
-2       0.0                 exp to 0 on level 5                                                                         
-2       0.0                 exp to 4 on level 5                                                                         
-2       12196.2             moved nami from bench 1 to board [1, 0]                                                     
-2       12196.2             Spaces for units left to fight 0                                                            
-END OF ROUND 5 : 22:17:13
-2       38075.3             cultist: 1, tier: 0                                                                         
-2       38075.3             elderwood: 1, tier: 0                                                                       
-2       38075.3             enlightened: 1, tier: 0                                                                     
-2       38075.3             ninja: 1, tier: 1                                                                           
-2       38075.3             assassin: 1, tier: 0                                                                        
-2       38075.3             brawler: 3, tier: 1                                                                         
-2       38075.3             fortune: 1, tier: 0                                                                         
-2       38075.3             mage: 1, tier: 0                                                                            
-2       38075.3             shade: 1, tier: 0                                                                           
-2       38075.3             at (0, 0), champion tahmkench, with level = 2, items = [], and chosen = brawler             
-2       38075.3             at (0, 1), champion nunu, with level = 1, items = [], and chosen = False                    
-2       38075.3             at (0, 2), champion pyke, with level = 1, items = [], and chosen = False                    
-2       38075.3             at (0, 3), champion zed, with level = 1, items = [], and chosen = False                     
-2       38075.3             at (1, 0), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
-2       38075.3             Player level 5 with gold 0, max_units = 5, num_units_in_play = 5, health = 100, default False
-2       0.0                 cultist: 1, tier: 0                                                                         
-2       0.0                 elderwood: 1, tier: 0                                                                       
-2       0.0                 enlightened: 1, tier: 0                                                                     
-2       0.0                 ninja: 1, tier: 1                                                                           
-2       0.0                 assassin: 1, tier: 0                                                                        
-2       0.0                 brawler: 3, tier: 1                                                                         
-2       0.0                 fortune: 1, tier: 0                                                                         
-2       0.0                 mage: 1, tier: 0                                                                            
-2       0.0                 shade: 1, tier: 0                                                                           
-2       0.0                 at (0, 0), champion tahmkench, with level = 2, items = [], and chosen = brawler             
-2       0.0                 at (0, 1), champion nunu, with level = 1, items = [], and chosen = False                    
-2       0.0                 at (0, 2), champion pyke, with level = 1, items = [], and chosen = False                    
-2       0.0                 at (0, 3), champion zed, with level = 1, items = [], and chosen = False                     
-2       0.0                 at (1, 0), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
-2       0.0                 Player level 5 with gold 5, max_units = 5, num_units_in_play = 5, health = 100, default False
-2       0.0                 2: aphelios                                                                                 
-2       0.0                 3: hecarim                                                                                  
-2       0.0                 4: thresh                                                                                   
-2       0.0                 0: champion_duplicator                                                                      
-2       0.0                 Adding champion diana with items [] and chosen False to bench                               
-2       0.0                 Spending gold on champion diana with cost = 1, remaining gold 4 and chosen = False          
-2       0.0                 Bought champion diana                                                                       
-2       0.0                 Adding champion kennen with items ['recurve_bow'] and chosen False to bench                 
-2       0.0                 Spaces for units left to fight 0                                                            
-END OF ROUND 6 : 22:17:13
-2       105904.9            cultist: 1, tier: 0                                                                         
-2       105904.9            elderwood: 1, tier: 0                                                                       
-2       105904.9            enlightened: 1, tier: 0                                                                     
-2       105904.9            ninja: 1, tier: 1                                                                           
-2       105904.9            assassin: 1, tier: 0                                                                        
-2       105904.9            brawler: 3, tier: 1                                                                         
-2       105904.9            fortune: 1, tier: 0                                                                         
-2       105904.9            mage: 1, tier: 0                                                                            
-2       105904.9            shade: 1, tier: 0                                                                           
-2       105904.9            at (0, 0), champion tahmkench, with level = 2, items = [], and chosen = brawler             
-2       105904.9            at (0, 1), champion nunu, with level = 1, items = [], and chosen = False                    
-2       105904.9            at (0, 2), champion pyke, with level = 1, items = [], and chosen = False                    
-2       105904.9            at (0, 3), champion zed, with level = 1, items = [], and chosen = False                     
-2       105904.9            at (1, 0), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
-2       105904.9            Player level 5 with gold 4, max_units = 5, num_units_in_play = 5, health = 100, default False
-2       0.0                 cultist: 1, tier: 0                                                                         
-2       0.0                 elderwood: 1, tier: 0                                                                       
-2       0.0                 enlightened: 1, tier: 0                                                                     
-2       0.0                 ninja: 1, tier: 1                                                                           
-2       0.0                 assassin: 1, tier: 0                                                                        
-2       0.0                 brawler: 3, tier: 1                                                                         
-2       0.0                 fortune: 1, tier: 0                                                                         
-2       0.0                 mage: 1, tier: 0                                                                            
-2       0.0                 shade: 1, tier: 0                                                                           
-2       0.0                 at (0, 0), champion tahmkench, with level = 2, items = [], and chosen = brawler             
-2       0.0                 at (0, 1), champion nunu, with level = 1, items = [], and chosen = False                    
-2       0.0                 at (0, 2), champion pyke, with level = 1, items = [], and chosen = False                    
-2       0.0                 at (0, 3), champion zed, with level = 1, items = [], and chosen = False                     
-2       0.0                 at (1, 0), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
-2       0.0                 Player level 5 with gold 9, max_units = 5, num_units_in_play = 5, health = 100, default False
-2       0.0                 0: diana                                                                                    
-2       0.0                 1: kennen                                                                                   
-2       0.0                 2: aphelios                                                                                 
-2       0.0                 3: hecarim                                                                                  
-2       0.0                 4: thresh                                                                                   
-2       0.0                 0: champion_duplicator                                                                      
-2       0.0                 exp to 12 on level 5                                                                        
-2       0.0                 exp to 16 on level 5                                                                        
-2       5168.6              Spaces for units left to fight 0                                                            
-END OF ROUND 7 : 22:17:13
-2       63098.5             cultist: 1, tier: 0                                                                         
-2       63098.5             elderwood: 1, tier: 0                                                                       
-2       63098.5             enlightened: 1, tier: 0                                                                     
-2       63098.5             ninja: 1, tier: 1                                                                           
-2       63098.5             assassin: 1, tier: 0                                                                        
-2       63098.5             brawler: 3, tier: 1                                                                         
-2       63098.5             fortune: 1, tier: 0                                                                         
-2       63098.5             mage: 1, tier: 0                                                                            
-2       63098.5             shade: 1, tier: 0                                                                           
-2       63098.5             at (0, 0), champion tahmkench, with level = 2, items = [], and chosen = brawler             
-2       63098.5             at (0, 1), champion nunu, with level = 1, items = [], and chosen = False                    
-2       63098.5             at (0, 2), champion pyke, with level = 1, items = [], and chosen = False                    
-2       63098.5             at (0, 3), champion zed, with level = 1, items = [], and chosen = False                     
-2       63098.5             at (1, 0), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
-2       63098.5             Player level 5 with gold 1, max_units = 5, num_units_in_play = 5, health = 100, default False
-2       0.0                 cultist: 1, tier: 0                                                                         
-2       0.0                 elderwood: 1, tier: 0                                                                       
-2       0.0                 enlightened: 1, tier: 0                                                                     
-2       0.0                 ninja: 1, tier: 1                                                                           
-2       0.0                 assassin: 1, tier: 0                                                                        
-2       0.0                 brawler: 3, tier: 1                                                                         
-2       0.0                 fortune: 1, tier: 0                                                                         
-2       0.0                 mage: 1, tier: 0                                                                            
-2       0.0                 shade: 1, tier: 0                                                                           
-2       0.0                 at (0, 0), champion tahmkench, with level = 2, items = [], and chosen = brawler             
-2       0.0                 at (0, 1), champion nunu, with level = 1, items = [], and chosen = False                    
-2       0.0                 at (0, 2), champion pyke, with level = 1, items = [], and chosen = False                    
-2       0.0                 at (0, 3), champion zed, with level = 1, items = [], and chosen = False                     
-2       0.0                 at (1, 0), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
-2       0.0                 Player level 5 with gold 6, max_units = 5, num_units_in_play = 5, health = 100, default False
-2       0.0                 0: diana                                                                                    
-2       0.0                 1: kennen                                                                                   
-2       0.0                 2: aphelios                                                                                 
-2       0.0                 3: hecarim                                                                                  
-2       0.0                 4: thresh                                                                                   
-2       0.0                 0: champion_duplicator                                                                      
-2       0.0                 leveled to 6                                                                                
-2       0.0                 exp to 2 on level 6                                                                         
-2       0.0                 Adding champion diana with items [] and chosen False to bench                               
-2       0.0                 Spending gold on champion diana with cost = 1, remaining gold 1 and chosen = False          
-2       0.0                 Bought champion diana                                                                       
-2       5677.7              moved diana from bench 0 to board [1, 1]                                                    
-2       5677.7              Spaces for units left to fight 0                                                            
-END OF ROUND 8 : 22:17:13
-2       5677.7              Spaces for units left to fight 0                                                            
-2       145596.7            Adding champion nunu with items [] and chosen False to bench                                
-2       145596.7            Adding champion jinx with items [] and chosen False to bench                                
-2       145596.7            Adding champion pyke with items [] and chosen False to bench                                
-2       145596.7            cultist: 1, tier: 0                                                                         
-2       145596.7            elderwood: 1, tier: 0                                                                       
-2       145596.7            enlightened: 1, tier: 0                                                                     
-2       145596.7            ninja: 1, tier: 1                                                                           
-2       145596.7            assassin: 2, tier: 1                                                                        
-2       145596.7            brawler: 3, tier: 1                                                                         
-2       145596.7            fortune: 1, tier: 0                                                                         
-2       145596.7            mage: 1, tier: 0                                                                            
-2       145596.7            moonlight: 1, tier: 0                                                                       
-2       145596.7            shade: 1, tier: 0                                                                           
-2       145596.7            at (0, 0), champion tahmkench, with level = 2, items = [], and chosen = brawler             
-2       145596.7            at (0, 1), champion nunu, with level = 1, items = [], and chosen = False                    
-2       145596.7            at (0, 2), champion pyke, with level = 1, items = [], and chosen = False                    
-2       145596.7            at (0, 3), champion zed, with level = 1, items = [], and chosen = False                     
-2       145596.7            at (1, 0), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
-2       145596.7            at (1, 1), champion diana, with level = 1, items = [], and chosen = False                   
-2       145596.7            Player level 6 with gold 8, max_units = 6, num_units_in_play = 6, health = 100, default False
-2       0.0                 cultist: 1, tier: 0                                                                         
-2       0.0                 elderwood: 1, tier: 0                                                                       
-2       0.0                 enlightened: 1, tier: 0                                                                     
-2       0.0                 ninja: 1, tier: 1                                                                           
-2       0.0                 assassin: 2, tier: 1                                                                        
-2       0.0                 brawler: 3, tier: 1                                                                         
-2       0.0                 fortune: 1, tier: 0                                                                         
-2       0.0                 mage: 1, tier: 0                                                                            
-2       0.0                 moonlight: 1, tier: 0                                                                       
-2       0.0                 shade: 1, tier: 0                                                                           
-2       0.0                 at (0, 0), champion tahmkench, with level = 2, items = [], and chosen = brawler             
-2       0.0                 at (0, 1), champion nunu, with level = 1, items = [], and chosen = False                    
-2       0.0                 at (0, 2), champion pyke, with level = 1, items = [], and chosen = False                    
-2       0.0                 at (0, 3), champion zed, with level = 1, items = [], and chosen = False                     
-2       0.0                 at (1, 0), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
-2       0.0                 at (1, 1), champion diana, with level = 1, items = [], and chosen = False                   
-2       0.0                 Player level 6 with gold 13, max_units = 6, num_units_in_play = 6, health = 100, default False
-2       0.0                 0: nunu                                                                                     
-2       0.0                 1: kennen                                                                                   
-2       0.0                 2: aphelios                                                                                 
-2       0.0                 3: hecarim                                                                                  
-2       0.0                 4: thresh                                                                                   
-2       0.0                 5: diana                                                                                    
-2       0.0                 6: jinx                                                                                     
-2       0.0                 7: pyke                                                                                     
-2       0.0                 0: champion_duplicator                                                                      
-2       0.0                 1: champion_duplicator                                                                      
-2       0.0                 Adding champion yasuo with items [] and chosen False to bench                               
-2       0.0                 Spending gold on champion yasuo with cost = 1, remaining gold 12 and chosen = False         
-2       0.0                 Bought champion yasuo                                                                       
-2       0.0                 selling champion xinzhao with stars = 1 from position [-1, -1]                              
-2       0.0                 selling champion xinzhao with stars = 1 from position [-1, -1]                              
-2       0.0                 selling champion xinzhao with stars = 1 from position [-1, -1]                              
-2       0.0                 selling champion xinzhao with stars = 1 from position [-1, -1]                              
-2       0.0                 selling champion xinzhao with stars = 1 from position [-1, -1]                              
-2       0.0                 selling champion xinzhao with stars = 1 from position [-1, -1]                              
-2       10146.9             selling champion xinzhao with stars = 1 from position [-1, -1]                              
-2       10146.9             selling champion xinzhao with stars = 1 from position [-1, -1]                              
-2       10146.9             selling champion xinzhao with stars = 1 from position [-1, -1]                              
-2       10146.9             selling champion xinzhao with stars = 1 from position [-1, -1]                              
-2       10146.9             selling champion xinzhao with stars = 1 from position [-1, -1]                              
-2       10146.9             selling champion xinzhao with stars = 1 from position [-1, -1]                              
-2       12682.3             selling champion xinzhao with stars = 1 from position [-1, -1]                              
-2       12682.3             selling champion xinzhao with stars = 1 from position [-1, -1]                              
-2       12682.3             Spaces for units left to fight 0                                                            
-END OF ROUND 9 : 22:17:13
-2       111048.9            cultist: 1, tier: 0                                                                         
-2       111048.9            elderwood: 1, tier: 0                                                                       
-2       111048.9            enlightened: 1, tier: 0                                                                     
-2       111048.9            ninja: 1, tier: 1                                                                           
-2       111048.9            assassin: 2, tier: 1                                                                        
-2       111048.9            brawler: 3, tier: 1                                                                         
-2       111048.9            fortune: 1, tier: 0                                                                         
-2       111048.9            mage: 1, tier: 0                                                                            
-2       111048.9            moonlight: 1, tier: 0                                                                       
-2       111048.9            shade: 1, tier: 0                                                                           
-2       111048.9            at (0, 0), champion tahmkench, with level = 2, items = [], and chosen = brawler             
-2       111048.9            at (0, 1), champion nunu, with level = 1, items = [], and chosen = False                    
-2       111048.9            at (0, 2), champion pyke, with level = 1, items = [], and chosen = False                    
-2       111048.9            at (0, 3), champion zed, with level = 1, items = [], and chosen = False                     
-2       111048.9            at (1, 0), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
-2       111048.9            at (1, 1), champion diana, with level = 1, items = [], and chosen = False                   
-2       111048.9            Player level 6 with gold 12, max_units = 6, num_units_in_play = 6, health = 100, default False
-2       0.0                 cultist: 1, tier: 0                                                                         
-2       0.0                 elderwood: 1, tier: 0                                                                       
-2       0.0                 enlightened: 1, tier: 0                                                                     
-2       0.0                 ninja: 1, tier: 1                                                                           
-2       0.0                 assassin: 2, tier: 1                                                                        
-2       0.0                 brawler: 3, tier: 1                                                                         
-2       0.0                 fortune: 1, tier: 0                                                                         
-2       0.0                 mage: 1, tier: 0                                                                            
-2       0.0                 moonlight: 1, tier: 0                                                                       
-2       0.0                 shade: 1, tier: 0                                                                           
-2       0.0                 at (0, 0), champion tahmkench, with level = 2, items = [], and chosen = brawler             
-2       0.0                 at (0, 1), champion nunu, with level = 1, items = [], and chosen = False                    
-2       0.0                 at (0, 2), champion pyke, with level = 1, items = [], and chosen = False                    
-2       0.0                 at (0, 3), champion zed, with level = 1, items = [], and chosen = False                     
-2       0.0                 at (1, 0), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
-2       0.0                 at (1, 1), champion diana, with level = 1, items = [], and chosen = False                   
-2       0.0                 Player level 6 with gold 18, max_units = 6, num_units_in_play = 6, health = 100, default False
-2       0.0                 0: nunu                                                                                     
-2       0.0                 1: kennen                                                                                   
-2       0.0                 2: aphelios                                                                                 
-2       0.0                 3: hecarim                                                                                  
-2       0.0                 4: thresh                                                                                   
-2       0.0                 5: diana                                                                                    
-2       0.0                 6: jinx                                                                                     
-2       0.0                 7: pyke                                                                                     
-2       0.0                 8: yasuo                                                                                    
-2       0.0                 0: champion_duplicator                                                                      
-2       0.0                 1: champion_duplicator                                                                      
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       6417.3              selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       6417.3              selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       6417.3              selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       6417.3              selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       6417.3              selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       6417.3              selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       6417.3              selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       6417.3              selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       6417.3              selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       6417.3              selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       6417.3              Spaces for units left to fight 0                                                            
-END OF ROUND 10 : 22:17:14
-2       459754.6            cultist: 1, tier: 0                                                                         
-2       459754.6            elderwood: 1, tier: 0                                                                       
-2       459754.6            enlightened: 1, tier: 0                                                                     
-2       459754.6            ninja: 1, tier: 1                                                                           
-2       459754.6            assassin: 2, tier: 1                                                                        
-2       459754.6            brawler: 3, tier: 1                                                                         
-2       459754.6            fortune: 1, tier: 0                                                                         
-2       459754.6            mage: 1, tier: 0                                                                            
-2       459754.6            moonlight: 1, tier: 0                                                                       
-2       459754.6            shade: 1, tier: 0                                                                           
-2       459754.6            at (0, 0), champion tahmkench, with level = 2, items = [], and chosen = brawler             
-2       459754.6            at (0, 1), champion nunu, with level = 1, items = [], and chosen = False                    
-2       459754.6            at (0, 2), champion pyke, with level = 1, items = [], and chosen = False                    
-2       459754.6            at (0, 3), champion zed, with level = 1, items = [], and chosen = False                     
-2       459754.6            at (1, 0), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
-2       459754.6            at (1, 1), champion diana, with level = 1, items = [], and chosen = False                   
-2       459754.6            Player level 6 with gold 18, max_units = 6, num_units_in_play = 6, health = 100, default False
-2       0.0                 cultist: 1, tier: 0                                                                         
-2       0.0                 elderwood: 1, tier: 0                                                                       
-2       0.0                 enlightened: 1, tier: 0                                                                     
-2       0.0                 ninja: 1, tier: 1                                                                           
-2       0.0                 assassin: 2, tier: 1                                                                        
-2       0.0                 brawler: 3, tier: 1                                                                         
-2       0.0                 fortune: 1, tier: 0                                                                         
-2       0.0                 mage: 1, tier: 0                                                                            
-2       0.0                 moonlight: 1, tier: 0                                                                       
-2       0.0                 shade: 1, tier: 0                                                                           
-2       0.0                 at (0, 0), champion tahmkench, with level = 2, items = [], and chosen = brawler             
-2       0.0                 at (0, 1), champion nunu, with level = 1, items = [], and chosen = False                    
-2       0.0                 at (0, 2), champion pyke, with level = 1, items = [], and chosen = False                    
-2       0.0                 at (0, 3), champion zed, with level = 1, items = [], and chosen = False                     
-2       0.0                 at (1, 0), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
-2       0.0                 at (1, 1), champion diana, with level = 1, items = [], and chosen = False                   
-2       0.0                 Player level 6 with gold 24, max_units = 6, num_units_in_play = 6, health = 100, default False
-2       0.0                 0: nunu                                                                                     
-2       0.0                 1: kennen                                                                                   
-2       0.0                 2: aphelios                                                                                 
-2       0.0                 3: hecarim                                                                                  
-2       0.0                 4: thresh                                                                                   
-2       0.0                 5: diana                                                                                    
-2       0.0                 6: jinx                                                                                     
-2       0.0                 7: pyke                                                                                     
-2       0.0                 8: yasuo                                                                                    
-2       0.0                 0: champion_duplicator                                                                      
-2       0.0                 1: champion_duplicator                                                                      
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 Spaces for units left to fight 0                                                            
-END OF ROUND 11 : 22:17:14
-2       278152.8            cultist: 1, tier: 0                                                                         
-2       278152.8            elderwood: 1, tier: 0                                                                       
-2       278152.8            enlightened: 1, tier: 0                                                                     
-2       278152.8            ninja: 1, tier: 1                                                                           
-2       278152.8            assassin: 2, tier: 1                                                                        
-2       278152.8            brawler: 3, tier: 1                                                                         
-2       278152.8            fortune: 1, tier: 0                                                                         
-2       278152.8            mage: 1, tier: 0                                                                            
-2       278152.8            moonlight: 1, tier: 0                                                                       
-2       278152.8            shade: 1, tier: 0                                                                           
-2       278152.8            at (0, 0), champion tahmkench, with level = 2, items = [], and chosen = brawler             
-2       278152.8            at (0, 1), champion nunu, with level = 1, items = [], and chosen = False                    
-2       278152.8            at (0, 2), champion pyke, with level = 1, items = [], and chosen = False                    
-2       278152.8            at (0, 3), champion zed, with level = 1, items = [], and chosen = False                     
-2       278152.8            at (1, 0), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
-2       278152.8            at (1, 1), champion diana, with level = 1, items = [], and chosen = False                   
-2       278152.8            Player level 6 with gold 24, max_units = 6, num_units_in_play = 6, health = 100, default False
-2       0.0                 cultist: 1, tier: 0                                                                         
-2       0.0                 elderwood: 1, tier: 0                                                                       
-2       0.0                 enlightened: 1, tier: 0                                                                     
-2       0.0                 ninja: 1, tier: 1                                                                           
-2       0.0                 assassin: 2, tier: 1                                                                        
-2       0.0                 brawler: 3, tier: 1                                                                         
-2       0.0                 fortune: 1, tier: 0                                                                         
-2       0.0                 mage: 1, tier: 0                                                                            
-2       0.0                 moonlight: 1, tier: 0                                                                       
-2       0.0                 shade: 1, tier: 0                                                                           
-2       0.0                 at (0, 0), champion tahmkench, with level = 2, items = [], and chosen = brawler             
-2       0.0                 at (0, 1), champion nunu, with level = 1, items = [], and chosen = False                    
-2       0.0                 at (0, 2), champion pyke, with level = 1, items = [], and chosen = False                    
-2       0.0                 at (0, 3), champion zed, with level = 1, items = [], and chosen = False                     
-2       0.0                 at (1, 0), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
-2       0.0                 at (1, 1), champion diana, with level = 1, items = [], and chosen = False                   
-2       0.0                 Player level 6 with gold 31, max_units = 6, num_units_in_play = 6, health = 100, default False
-2       0.0                 0: nunu                                                                                     
-2       0.0                 1: kennen                                                                                   
-2       0.0                 2: aphelios                                                                                 
-2       0.0                 3: hecarim                                                                                  
-2       0.0                 4: thresh                                                                                   
-2       0.0                 5: diana                                                                                    
-2       0.0                 6: jinx                                                                                     
-2       0.0                 7: pyke                                                                                     
-2       0.0                 8: yasuo                                                                                    
-2       0.0                 0: champion_duplicator                                                                      
-2       0.0                 1: champion_duplicator                                                                      
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       0.0                 selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       7495.6              selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       7495.6              selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       7495.6              selling champion jarvaniv with stars = 1 from position [-1, -1]                             
-2       7495.6              returning sparring_gloves to the item bench                                                 
-2       7495.6              selling champion sejuani with stars = 1 from position [-1, -1]                              
-2       9013.3              Spaces for units left to fight 0                                                            
-END OF ROUND 12 : 22:17:14
+3       3170.5              Adding champion nami with items ['bf_sword'] and chosen False to bench                      
+3       3170.5              moved nami from bench 0 to board [0, 0]                                                     
+3       3170.5              Spaces for units left to fight 0                                                            
+3       15977.6             enlightened: 1, tier: 0                                                                     
+3       15977.6             mage: 1, tier: 0                                                                            
+3       15977.6             at (0, 0), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
+3       15977.6             Player level 1 with gold 0, max_units = 1, num_units_in_play = 1, health = 100, default False
+3       15977.6             Passing Action                                                                              
+3       15977.6             Spaces for units left to fight 0                                                            
+END OF ROUND 1 : 22:08:06
+3       15977.6             Spaces for units left to fight 0                                                            
+3       43276.0             Adding champion teemo with items [] and chosen False to bench                               
+3       43276.0             enlightened: 1, tier: 0                                                                     
+3       43276.0             mage: 1, tier: 0                                                                            
+3       43276.0             at (0, 0), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
+3       43276.0             Player level 1 with gold 1, max_units = 1, num_units_in_play = 1, health = 100, default False
+3       0.0                 leveled to 2                                                                                
+3       0.0                 enlightened: 1, tier: 0                                                                     
+3       0.0                 mage: 1, tier: 0                                                                            
+3       0.0                 at (0, 0), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
+3       0.0                 Player level 2 with gold 3, max_units = 2, num_units_in_play = 1, health = 100, default False
+3       0.0                 0: teemo                                                                                    
+3       0.0                 0: negatron_cloak                                                                           
+3       7802.9              Passing Action                                                                              
+3       7802.9              Passing Action                                                                              
+3       9810.6              Passing Action                                                                              
+3       9810.6              Passing Action                                                                              
+3       9810.6              Passing Action                                                                              
+3       9810.6              moved nami from board [0, 0] to bench                                                       
+3       9810.6              moved teemo from bench 0 to board [0, 0]                                                    
+3       9810.6              moved nami from bench 1 to board [0, 1]                                                     
+3       17892.3             Spaces for units left to fight 0                                                            
+END OF ROUND 2 : 22:08:06
+3       17892.3             Spaces for units left to fight 0                                                            
+3       42436.9             Adding champion nidalee with items [] and chosen False to bench                             
+3       42436.9             Adding champion twistedfate with items [] and chosen False to bench                         
+3       42436.9             Adding champion nami with items [] and chosen False to bench                                
+3       42436.9             enlightened: 1, tier: 0                                                                     
+3       42436.9             spirit: 1, tier: 0                                                                          
+3       42436.9             mage: 1, tier: 0                                                                            
+3       42436.9             sharpshooter: 1, tier: 0                                                                    
+3       42436.9             at (0, 0), champion teemo, with level = 1, items = [], and chosen = False                   
+3       42436.9             at (0, 1), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
+3       42436.9             Player level 2 with gold 3, max_units = 2, num_units_in_play = 2, health = 100, default False
+3       0.0                 leveled to 3                                                                                
+3       0.0                 enlightened: 1, tier: 0                                                                     
+3       0.0                 spirit: 1, tier: 0                                                                          
+3       0.0                 mage: 1, tier: 0                                                                            
+3       0.0                 sharpshooter: 1, tier: 0                                                                    
+3       0.0                 at (0, 0), champion teemo, with level = 1, items = [], and chosen = False                   
+3       0.0                 at (0, 1), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
+3       0.0                 Player level 3 with gold 6, max_units = 3, num_units_in_play = 2, health = 100, default False
+3       0.0                 0: nidalee                                                                                  
+3       0.0                 1: twistedfate                                                                              
+3       0.0                 2: nami                                                                                     
+3       0.0                 0: negatron_cloak                                                                           
+3       0.0                 1: negatron_cloak                                                                           
+3       0.0                 Passing Action                                                                              
+3       0.0                 moved nami from board [0, 1] to bench                                                       
+3       0.0                 moved nami from bench 2 to board [0, 1]                                                     
+3       0.0                 exp to 4 on level 3                                                                         
+3       7453.9              moved teemo from board [0, 0] to bench                                                      
+3       7453.9              moved twistedfate from bench 1 to board [0, 0]                                              
+3       7453.9              Passing Action                                                                              
+3       12053.4             Passing Action                                                                              
+3       12053.4             moved nidalee from bench 0 to board [0, 2]                                                  
+3       12053.4             Spaces for units left to fight 0                                                            
+END OF ROUND 3 : 22:08:06
+3       54962.6             cultist: 1, tier: 0                                                                         
+3       54962.6             enlightened: 1, tier: 0                                                                     
+3       54962.6             warlord: 1, tier: 0                                                                         
+3       54962.6             mage: 2, tier: 0                                                                            
+3       54962.6             sharpshooter: 1, tier: 0                                                                    
+3       54962.6             at (0, 0), champion twistedfate, with level = 1, items = [], and chosen = False             
+3       54962.6             at (0, 1), champion nami, with level = 1, items = [], and chosen = False                    
+3       54962.6             at (0, 2), champion nidalee, with level = 1, items = [], and chosen = False                 
+3       54962.6             Player level 3 with gold 2, max_units = 3, num_units_in_play = 3, health = 100, default False
+3       0.0                 leveled to 4                                                                                
+3       0.0                 cultist: 1, tier: 0                                                                         
+3       0.0                 enlightened: 1, tier: 0                                                                     
+3       0.0                 warlord: 1, tier: 0                                                                         
+3       0.0                 mage: 2, tier: 0                                                                            
+3       0.0                 sharpshooter: 1, tier: 0                                                                    
+3       0.0                 at (0, 0), champion twistedfate, with level = 1, items = [], and chosen = False             
+3       0.0                 at (0, 1), champion nami, with level = 1, items = [], and chosen = False                    
+3       0.0                 at (0, 2), champion nidalee, with level = 1, items = [], and chosen = False                 
+3       0.0                 Player level 4 with gold 6, max_units = 4, num_units_in_play = 3, health = 100, default False
+3       0.0                 1: teemo                                                                                    
+3       0.0                 2: nami                                                                                     
+3       0.0                 0: negatron_cloak                                                                           
+3       0.0                 1: negatron_cloak                                                                           
+3       2052.1              exp to 4 on level 4                                                                         
+3       8512.1              moved nami from board [0, 1] to bench                                                       
+3       8512.1              moved nami from bench 2 to board [0, 1]                                                     
+3       8512.1              Refreshed shop                                                                              
+3       8512.1              moved twistedfate from board [0, 0] to bench                                                
+3       8512.1              moved teemo from bench 1 to board [0, 0]                                                    
+3       12493.0             moved nami from bench 0 to board [0, 3]                                                     
+3       12493.0             Spaces for units left to fight 0                                                            
+END OF ROUND 4 : 22:08:06
+3       48141.3             enlightened: 1, tier: 0                                                                     
+3       48141.3             spirit: 1, tier: 0                                                                          
+3       48141.3             warlord: 1, tier: 0                                                                         
+3       48141.3             mage: 1, tier: 0                                                                            
+3       48141.3             sharpshooter: 2, tier: 1                                                                    
+3       48141.3             at (0, 0), champion teemo, with level = 1, items = [], and chosen = False                   
+3       48141.3             at (0, 1), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
+3       48141.3             at (0, 2), champion nidalee, with level = 1, items = [], and chosen = False                 
+3       48141.3             at (0, 3), champion nami, with level = 1, items = [], and chosen = False                    
+3       48141.3             Player level 4 with gold 0, max_units = 4, num_units_in_play = 4, health = 100, default False
+3       0.0                 enlightened: 1, tier: 0                                                                     
+3       0.0                 spirit: 1, tier: 0                                                                          
+3       0.0                 warlord: 1, tier: 0                                                                         
+3       0.0                 mage: 1, tier: 0                                                                            
+3       0.0                 sharpshooter: 2, tier: 1                                                                    
+3       0.0                 at (0, 0), champion teemo, with level = 1, items = [], and chosen = False                   
+3       0.0                 at (0, 1), champion nami, with level = 1, items = ['bf_sword'], and chosen = False          
+3       0.0                 at (0, 2), champion nidalee, with level = 1, items = [], and chosen = False                 
+3       0.0                 at (0, 3), champion nami, with level = 1, items = [], and chosen = False                    
+3       0.0                 Player level 4 with gold 5, max_units = 4, num_units_in_play = 4, health = 100, default False
+3       0.0                 1: twistedfate                                                                              
+3       0.0                 0: negatron_cloak                                                                           
+3       0.0                 1: negatron_cloak                                                                           
+3       0.0                 moved nami from board [0, 1] to bench                                                       
+3       0.0                 moved nidalee from board [0, 2] to bench                                                    
+3       0.0                 moved nami from bench 2 to board [0, 2]                                                     
+3       0.0                 Passing Action                                                                              
+3       0.0                 Passing Action                                                                              
+3       0.0                 moved nami from board [0, 2] to board [5, 0]                                                
+3       8914.4              Passing Action                                                                              
+3       8914.4              moved nami from board [5, 0] to board [3, 2]                                                
+3       9918.0              Passing Action                                                                              
+3       9918.0              Passing Action                                                                              
+3       9918.0              moved teemo from board [0, 0] to board [1, 2]                                               
+3       11933.5             Adding champion lissandra with items [] and chosen False to bench                           
+3       11933.5             Spending gold on champion lissandra with cost = 1, remaining gold 4 and chosen = False      
+3       11933.5             Bought champion lissandra                                                                   
+3       11933.5             moved nami from board [0, 3] to bench                                                       
+3       11933.5             moved lissandra from bench 2 to board [0, 3]                                                
+3       13936.7             moved lissandra from board [0, 3] to bench                                                  
+3       13936.7             moved nami from bench 2 to board [0, 3]                                                     
+3       13936.7             moved nidalee from bench 0 to board [0, 0]                                                  
+3       13936.7             Spaces for units left to fight 0                                                            
+END OF ROUND 5 : 22:08:06
